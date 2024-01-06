@@ -1,0 +1,144 @@
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/">
+	<wpt lat="53.3610402" lon="-3.0063057">
+		<name>1</name>
+	</wpt>
+	<wpt lat="53.3658163" lon="-3.008194">
+		<name>2</name>
+	</wpt>
+	<wpt lat="53.3637996" lon="-3.0123675">
+		<name>3</name>
+	</wpt>
+	<wpt lat="53.3658355" lon="-3.0176568">
+		<name>4</name>
+	</wpt>
+	<wpt lat="53.3693564" lon="-3.0182683">
+		<name>5</name>
+	</wpt>
+	<wpt lat="53.3662964" lon="-3.0283266">
+		<name>6</name>
+	</wpt>
+	<wpt lat="53.3681721" lon="-3.024255">
+		<name>7</name>
+	</wpt>
+	<wpt lat="53.3673143" lon="-3.0165517">
+		<name>8</name>
+	</wpt>
+	<wpt lat="53.3664565" lon="-3.0123782">
+		<name>9</name>
+	</wpt>
+	<wpt lat="53.3682233" lon="-3.011139">
+		<name>10</name>
+	</wpt>
+	<wpt lat="53.3655282" lon="-3.0031085">
+		<name>11</name>
+	</wpt>
+	<wpt lat="53.3678328" lon="-3.0051416">
+		<name>12</name>
+	</wpt>
+	<wpt lat="53.3667573" lon="-3.0005014">
+		<name>13</name>
+	</wpt>
+	<wpt lat="53.3691451" lon="-3.0029583">
+		<name>14</name>
+	</wpt>
+	<wpt lat="53.3708927" lon="-3.0001366">
+		<name>15</name>
+	</wpt>
+	<wpt lat="53.3725474" lon="-3.0044657">
+		<name>16</name>
+	</wpt>
+	<wpt lat="53.3698013" lon="-3.0051094">
+		<name>17</name>
+	</wpt>
+	<wpt lat="53.3706591" lon="-3.007502">
+		<name>18</name>
+	</wpt>
+	<wpt lat="53.3700861" lon="-3.0105329">
+		<name>19</name>
+	</wpt>
+	<wpt lat="53.3698045" lon="-3.01373">
+		<name>20</name>
+	</wpt>
+	<wpt lat="53.3715712" lon="-3.0180323">
+		<name>21</name>
+	</wpt>
+	<wpt lat="53.3731779" lon="-3.0184615">
+		<name>22</name>
+	</wpt>
+	<wpt lat="53.374266" lon="-3.0163103">
+		<name>23</name>
+	</wpt>
+	<wpt lat="53.3720385" lon="-3.0143094">
+		<name>24</name>
+	</wpt>
+	<wpt lat="53.3728162" lon="-3.012346">
+		<name>25</name>
+	</wpt>
+	<wpt lat="53.3731331" lon="-3.009814">
+		<name>26</name>
+	</wpt>
+	<wpt lat="53.3745412" lon="-3.0126786">
+		<name>27</name>
+	</wpt>
+	<wpt lat="53.3757957" lon="-3.0170158">
+		<name>28</name>
+	</wpt>
+	<wpt lat="53.3770854" lon="-3.018381">
+		<name>29</name>
+	</wpt>
+	<wpt lat="53.376903" lon="-3.0150068">
+		<name>30</name>
+	</wpt>
+	<wpt lat="53.378631" lon="-3.0150604">
+		<name>31</name>
+	</wpt>
+	<wpt lat="53.3810118" lon="-3.0162728">
+		<name>32</name>
+	</wpt>
+	<trk>
+		<name>17</name>
+		<desc>Length: 1.876 km (1.166 mi)</desc>
+		<trkseg>
+			<trkpt lat="53.3681945" lon="-3.0079633" />
+			<trkpt lat="53.3680041" lon="-3.007848" />
+			<trkpt lat="53.3681481" lon="-3.0073169" />
+			<trkpt lat="53.368449" lon="-3.0064505" />
+			<trkpt lat="53.3686698" lon="-3.0066463" />
+			<trkpt lat="53.3691804" lon="-3.0052167" />
+			<trkpt lat="53.3689371" lon="-3.0050397" />
+			<trkpt lat="53.3693244" lon="-3.0041867" />
+			<trkpt lat="53.3695612" lon="-3.004396" />
+			<trkpt lat="53.3703678" lon="-3.0035484" />
+			<trkpt lat="53.3706687" lon="-3.0034518" />
+			<trkpt lat="53.3707935" lon="-3.0041116" />
+			<trkpt lat="53.3709471" lon="-3.0044711" />
+			<trkpt lat="53.3708159" lon="-3.0049753" />
+			<trkpt lat="53.3713216" lon="-3.0054581" />
+			<trkpt lat="53.372881" lon="-3.0067255" />
+			<trkpt lat="53.3727418" lon="-3.007219" />
+			<trkpt lat="53.3726418" lon="-3.0074738" />
+			<trkpt lat="53.3726226" lon="-3.0075234" />
+			<trkpt lat="53.372549" lon="-3.0074698" />
+			<trkpt lat="53.3716" lon="-3.0067027" />
+			<trkpt lat="53.3709567" lon="-3.0061501" />
+			<trkpt lat="53.3709791" lon="-3.0060536" />
+			<trkpt lat="53.3705054" lon="-3.0056217" />
+			<trkpt lat="53.3704542" lon="-3.0057639" />
+			<trkpt lat="53.3703438" lon="-3.0056888" />
+			<trkpt lat="53.3704526" lon="-3.0053186" />
+			<trkpt lat="53.3702526" lon="-3.0051416" />
+			<trkpt lat="53.370147" lon="-3.0054849" />
+			<trkpt lat="53.3699757" lon="-3.0053508" />
+			<trkpt lat="53.3698349" lon="-3.0058444" />
+			<trkpt lat="53.3699565" lon="-3.0059677" />
+			<trkpt lat="53.3698589" lon="-3.0062413" />
+			<trkpt lat="53.3699325" lon="-3.0063057" />
+			<trkpt lat="53.3698109" lon="-3.0066839" />
+			<trkpt lat="53.3695804" lon="-3.006523" />
+			<trkpt lat="53.36935" lon="-3.0073223" />
+			<trkpt lat="53.3699149" lon="-3.0076709" />
+			<trkpt lat="53.3696845" lon="-3.0087411" />
+			<trkpt lat="53.3681929" lon="-3.0079579" />
+		</trkseg>
+	</trk>
+	</gpx>
